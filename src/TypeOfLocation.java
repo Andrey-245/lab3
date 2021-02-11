@@ -1,4 +1,5 @@
 public enum TypeOfLocation {
     YELLOW_CAR,
-    STREET
+    STREET,
+    MOSTOVAYA
 }

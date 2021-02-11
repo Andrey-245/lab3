@@ -1,7 +1,5 @@
-public class YellowCar {
-    public YellowCar(Photo photo) {
-    }
-
-    public YellowCar() {
+public class YellowCar extends Camera {
+    public YellowCar(TypeOfLocation street, PhotoCamera PhotoCamera, String name) {
+        super(street, PhotoCamera, name);
     }
 }
